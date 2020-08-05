@@ -1,0 +1,23 @@
+{
+  "name": "youtube-video-player-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nina1012/youtube-video-player-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nina1012/youtube-video-player-page/issues"
+  },
+  "homepage": "https://github.com/nina1012/youtube-video-player-page#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
